@@ -1,0 +1,20 @@
+# Dependencies
+site/node_modules/
+
+# Build output
+site/build/
+site/.docusaurus/
+site/.cache-loader/
+
+# OS
+.DS_Store
+
+# Environment (contains tokens)
+.env.claude
+
+# Generated Excel files (reproducible from scripts)
+*.xlsx
+
+# Editor
+.vscode/
+.idea/

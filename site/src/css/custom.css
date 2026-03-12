@@ -1,0 +1,161 @@
+/**
+ * Kid-friendly theme for École Saint-Anne
+ * Playful, colorful, rounded — designed for 8-10 year olds
+ */
+
+/* Warm, playful palette — orange/coral primary */
+:root {
+  --ifm-color-primary: #e8593f;
+  --ifm-color-primary-dark: #e04228;
+  --ifm-color-primary-darker: #d63b22;
+  --ifm-color-primary-darkest: #b0301b;
+  --ifm-color-primary-light: #ec7059;
+  --ifm-color-primary-lighter: #ee7d68;
+  --ifm-color-primary-lightest: #f4a393;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Custom tokens */
+  --kid-yellow: #fbbf24;
+  --kid-green: #34d399;
+  --kid-purple: #a78bfa;
+  --kid-pink: #f472b6;
+  --kid-blue: #60a5fa;
+  --kid-bg-warm: #fff9f0;
+  --kid-radius: 1rem;
+
+  /* Larger base font for readability */
+  --ifm-font-size-base: 17px;
+  --ifm-heading-font-weight: 800;
+  --ifm-font-family-base: 'Nunito', 'Comic Neue', system-ui, -apple-system, sans-serif;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #f4a393;
+  --ifm-color-primary-dark: #f08a76;
+  --ifm-color-primary-darker: #ee7d68;
+  --ifm-color-primary-darkest: #e8593f;
+  --ifm-color-primary-light: #f8bcb0;
+  --ifm-color-primary-lighter: #facfbe;
+  --ifm-color-primary-lightest: #fef0eb;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --kid-bg-warm: #1e1e2e;
+}
+
+/* Import Nunito — rounded, kid-friendly font */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+/* ===== Global roundness ===== */
+.navbar {
+  border-radius: 0 0 1rem 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+article, .card, .theme-doc-sidebar-menu {
+  border-radius: var(--kid-radius) !important;
+}
+
+/* Rounded buttons everywhere */
+.button {
+  border-radius: 2rem !important;
+  font-weight: 700;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* ===== Navbar — playful ===== */
+.navbar__title {
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+
+.navbar__link {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+/* ===== Sidebar — softer ===== */
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
+
+.menu__link {
+  border-radius: 0.75rem !important;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+}
+
+.menu__link--active {
+  background: linear-gradient(135deg, var(--ifm-color-primary-lightest), var(--ifm-color-primary-lighter)) !important;
+}
+
+/* ===== Doc pages — warm background ===== */
+.docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
+  background: var(--kid-bg-warm);
+}
+
+/* ===== Tables — colorful headers ===== */
+table thead tr {
+  background: linear-gradient(135deg, var(--kid-blue), var(--kid-purple)) !important;
+  color: white;
+  border-radius: 0.5rem;
+}
+
+table thead th {
+  color: white !important;
+  font-weight: 700;
+}
+
+table tbody tr:nth-child(even) {
+  background: rgba(251, 191, 36, 0.08);
+}
+
+table {
+  border-radius: var(--kid-radius);
+  overflow: hidden;
+  border: 2px solid var(--ifm-color-primary-lightest);
+}
+
+/* ===== Admonitions — rounder, friendlier ===== */
+.admonition {
+  border-radius: var(--kid-radius) !important;
+  border-left-width: 6px;
+}
+
+/* ===== Code blocks — soft ===== */
+pre {
+  border-radius: var(--kid-radius) !important;
+}
+
+/* ===== Footer — warm dark ===== */
+.footer {
+  background: linear-gradient(135deg, #2d1b69, #1e3a5f) !important;
+  border-radius: 1.5rem 1.5rem 0 0;
+}
+
+.footer__title {
+  font-weight: 800;
+}
+
+/* ===== Fun animated background dots (light mode only) ===== */
+[data-theme='light'] main {
+  background-image:
+    radial-gradient(circle, var(--kid-yellow) 1px, transparent 1px),
+    radial-gradient(circle, var(--kid-pink) 1px, transparent 1px);
+  background-size: 80px 80px, 120px 120px;
+  background-position: 0 0, 40px 40px;
+  background-attachment: fixed;
+  opacity: 1;
+}
+
+/* Subtle dot overlay so content stays readable */
+[data-theme='light'] main > * {
+  position: relative;
+  z-index: 1;
+}
