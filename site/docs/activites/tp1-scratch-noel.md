@@ -82,3 +82,20 @@ title: "TP1 : Cartes de Noël Scratch"
 - Quelle difficulté as-tu surmontée et comment ?
 - Si tu devais refaire ce projet, que changerais-tu ?
 - Note ta satisfaction personnelle : ☆☆☆☆☆
+
+## Réalisations
+
+Voici ce que les élèves ont créé pendant ce projet :
+
+<div style={{textAlign: 'center', margin: '2rem 0'}}>
+<iframe
+  width="100%"
+  height="400"
+  src="https://www.youtube.com/embed/ttdWPhbgr9Q"
+  title="Cartes de Noël Scratch — Réalisations des élèves"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+  style={{maxWidth: '720px', borderRadius: '1rem', border: 'none'}}
+/>
+</div>
