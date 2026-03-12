@@ -11,9 +11,8 @@ const config = {
     v4: true,
   },
 
-  // TODO: set production URL when deployed
-  url: "https://informatique.example.com",
-  baseUrl: "/",
+  url: "https://jnschilling.github.io",
+  baseUrl: "/informatique/",
 
   onBrokenLinks: "throw",
 
