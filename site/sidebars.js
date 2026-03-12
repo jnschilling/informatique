@@ -21,6 +21,7 @@ const sidebars = {
         "activites/tp3-podcast-aventure",
       ],
     },
+    "activites/kahoot",
     {
       type: "category",
       label: "Outils Générateurs",
