@@ -11,9 +11,13 @@ site/.cache-loader/
 
 # Environment (contains tokens)
 .env.claude
+.env.webhooks
 
 # Generated Excel files (reproducible from scripts)
 *.xlsx
+
+# Student data — Forseti0: minors' names, initials, photos
+projet_TP2/
 
 # Editor
 .vscode/

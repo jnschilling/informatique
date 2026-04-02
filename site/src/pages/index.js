@@ -75,11 +75,11 @@ export default function Home() {
                 linkText="Découvrir le projet"
               />
               <FeatureCard
-                emoji="🌍"
-                title="Journal Planète"
-                description="En équipe, on fabrique un vrai journal sur l'environnement avec des articles, des images et des graphiques."
-                link="/docs/activites/tp2-journal-environnement"
-                linkText="Lire la fiche"
+                emoji="🎙️🌍"
+                title="Podcast Écologie"
+                description="En équipe, on crée un podcast sur un thème écologique : gaspillage, pollution, animaux, écologie à l'école !"
+                link="/docs/activites/tp2-ecologie"
+                linkText="Découvrir les équipes"
               />
             </div>
             <div className="row margin-bottom--lg">

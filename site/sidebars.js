@@ -17,7 +17,20 @@ const sidebars = {
       label: "Travaux Pratiques",
       items: [
         "activites/tp1-scratch-noel",
-        "activites/tp2-journal-environnement",
+        {
+          type: "category",
+          label: "TP2 : Podcast Écologie",
+          items: [
+            "activites/tp2-ecologie",
+            "activites/tp2-cm1",
+            "activites/tp2-cm2",
+            "activites/tp2-pollution-nature",
+            "activites/tp2-pollution-air",
+            "activites/tp2-animaux",
+            "activites/tp2-gaspillage",
+            "activites/tp2-ecologie-ecole",
+          ],
+        },
         "activites/tp3-podcast-aventure",
       ],
     },

@@ -1,0 +1,12 @@
+# Zeitgit Context — informatique
+# École Saint-Anne, CM1/CM2 (cycle 3, ages 9-11)
+# School year 2025-2026
+
+agent: lifprasir
+model: claude-opus-4-6
+project: informatique-ecole
+domain: education
+classes:
+  - CM2: 10 élèves
+  - CM1: 11 élèves
+current_tp: TP2 (écologie — format TBD: podcast ou journal, vote élèves)
