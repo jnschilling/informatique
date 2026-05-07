@@ -18,6 +18,7 @@ site/.cache-loader/
 
 # Student data — Forseti0: minors' names, initials, photos
 projet_TP2/
+TP_mairie/
 
 # Editor
 .vscode/
