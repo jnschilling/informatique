@@ -10,8 +10,8 @@ site/.cache-loader/
 .DS_Store
 
 # Environment (contains tokens)
-.env.claude
-.env.webhooks
+.env.*
+
 
 # Generated Excel files (reproducible from scripts)
 *.xlsx
