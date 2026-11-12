@@ -58,7 +58,7 @@ def principale() -> None:
     morceaux.append(
         "\n---\n\n*Fiches publiées avec l'accord des familles — prénoms seuls. "
         "Source des archives : [Mémoire des hommes]"
-        "(https://www.memoiredeshommes.sga.defense.gouv.fr).*\n"
+        "(https://www.memoiredeshommes.defense.gouv.fr).*\n"
     )
     PAGE.write_text("".join(morceaux), encoding="utf-8")
     print(f"Galerie générée : {PAGE} ({len(pdfs)} fiche(s))")

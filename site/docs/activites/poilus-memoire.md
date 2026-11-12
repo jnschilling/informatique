@@ -36,5 +36,5 @@ Les fiches de la classe sont publiées au fur et à mesure dans [la galerie](/do
 Le voyage ne s'arrête pas là : en décembre, dans [La Machine à Remonter le Temps](/docs/activites/tp1-machine-temps), une des scènes CM2 possibles est... **la tranchée de 1916**. Ton poilu pourra continuer à vivre dans ta scène animée !
 
 :::tip Ressource
-La base « Mémoire des hommes » est accessible à tous : [memoiredeshommes.sga.defense.gouv.fr](https://www.memoiredeshommes.sga.defense.gouv.fr) — tu peux y chercher un ancêtre avec ta famille.
+La base « Mémoire des hommes » est accessible à tous : [memoiredeshommes.defense.gouv.fr](https://www.memoiredeshommes.defense.gouv.fr) — tu peux y chercher un ancêtre avec ta famille.
 :::

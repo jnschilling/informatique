@@ -15,4 +15,4 @@ Les premières fiches arrivent ici très prochainement. 📬
 
 ---
 
-*Fiches publiées avec l'accord des familles — prénoms seuls. Source des archives : [Mémoire des hommes](https://www.memoiredeshommes.sga.defense.gouv.fr).*
+*Fiches publiées avec l'accord des familles — prénoms seuls. Source des archives : [Mémoire des hommes](https://www.memoiredeshommes.defense.gouv.fr).*
