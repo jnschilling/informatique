@@ -14,7 +14,7 @@ Les CM1 travaillent en **3 équipes** sur des thèmes qu'ils ont choisis ensembl
 
 > Comment la nature est-elle polluée autour de nous ? Que peut-on faire pour la protéger ?
 
-[Découvrir le thème](tp2-pollution-nature)
+[Découvrir le thème](tp2-pollution-nature.md)
 
 ---
 
@@ -23,7 +23,7 @@ Les CM1 travaillent en **3 équipes** sur des thèmes qu'ils ont choisis ensembl
 
 > D'où vient la pollution de l'air ? Comment affecte-t-elle notre santé et notre planète ?
 
-[Découvrir le thème](tp2-pollution-air)
+[Découvrir le thème](tp2-pollution-air.md)
 
 ---
 
@@ -32,7 +32,7 @@ Les CM1 travaillent en **3 équipes** sur des thèmes qu'ils ont choisis ensembl
 
 > Pourquoi certains animaux sont-ils en danger ? Comment mieux les protéger au quotidien ?
 
-[Découvrir le thème](tp2-animaux)
+[Découvrir le thème](tp2-animaux.md)
 
 ---
 

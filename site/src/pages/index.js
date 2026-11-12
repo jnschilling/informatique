@@ -55,7 +55,7 @@ export default function Home() {
   return (
     <Layout
       title="Accueil"
-      description="Programme informatique Cycle 3 — École Saint-Anne"
+      description="Programme informatique Cycle 3 — École Sainte-Anne"
     >
       <HomepageHeader />
       <main>

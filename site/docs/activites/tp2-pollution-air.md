@@ -65,4 +65,4 @@ _À compléter pendant la recherche documentaire_
 
 ---
 
-[Retour aux équipes CM1](tp2-cm1) | [Retour au projet TP2](tp2-ecologie)
+[Retour aux équipes CM1](tp2-cm1.md) | [Retour au projet TP2](tp2-ecologie.md)

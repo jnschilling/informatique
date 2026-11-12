@@ -5,7 +5,7 @@ title: Progression Annuelle
 
 # Progression Annuelle — Informatique Cycle 3
 
-_Année scolaire 2026-2027 – École Saint-Anne_
+_Année scolaire 2026-2027 – École Sainte-Anne_
 _Préparé par Jean-Noël Schilling_
 _Références : CM1 → nouveau programme de sciences et technologie (BO n°24 du 11 juin 2026) · CM2 → programme cycle 3 en vigueur (BOEN n°31 du 30 juillet 2020 + mise à jour 2023)_
 

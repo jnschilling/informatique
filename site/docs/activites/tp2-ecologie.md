@@ -19,19 +19,19 @@ Chaque équipe doit produire un podcast de 2 à 5 minutes qui **répond à une q
 
 | Classe | Élèves | Équipes | Thèmes |
 |--------|--------|---------|--------|
-| [**CM1**](tp2-cm1) | 11 | 3 équipes | Pollution nature, Pollution air, Protection animaux |
-| [**CM2**](tp2-cm2) | 10 | 2 équipes | Anti-gaspillage, Écologie à l'école |
+| [**CM1**](tp2-cm1.md) | 11 | 3 équipes | Pollution nature, Pollution air, Protection animaux |
+| [**CM2**](tp2-cm2.md) | 10 | 2 équipes | Anti-gaspillage, Écologie à l'école |
 
 ## Les 5 thèmes choisis par les élèves
 
 ### CM1
-- [Pollution de la nature](tp2-pollution-nature)
-- [Pollution de l'air](tp2-pollution-air)
-- [Faire plus attention aux animaux](tp2-animaux)
+- [Pollution de la nature](tp2-pollution-nature.md)
+- [Pollution de l'air](tp2-pollution-air.md)
+- [Faire plus attention aux animaux](tp2-animaux.md)
 
 ### CM2
-- [Comment ne pas gaspiller ?](tp2-gaspillage)
-- [Comment comprendre mieux l'écologie à l'école](tp2-ecologie-ecole)
+- [Comment ne pas gaspiller ?](tp2-gaspillage.md)
+- [Comment comprendre mieux l'écologie à l'école](tp2-ecologie-ecole.md)
 
 ## Devoirs maison — Podcasts à écouter !
 

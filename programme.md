@@ -1,6 +1,6 @@
 # Programme Annuel d'Informatique - Cycle 3 (CM1-CM2)
 
-_Année scolaire 2025-2026 – École Saint-Anne_  
+_Année scolaire 2025-2026 – École Sainte-Anne_  
 _Préparé par Jean-Noël Schilling_  
 _Références : Programme officiel cycle 3 – BOEN n°31 du 30 juillet 2020 + mise à jour 2023_
 

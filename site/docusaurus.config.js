@@ -3,7 +3,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Informatique Saint-Anne",
+  title: "Informatique Sainte-Anne",
   tagline: "On apprend, on crée, on s'amuse avec l'informatique ! 🎉",
   favicon: "img/favicon.ico",
 
@@ -15,6 +15,13 @@ const config = {
   baseUrl: "/",
 
   onBrokenLinks: "throw",
+
+  // GitHub Pages ajoute le slash final : sans lui, 37/38 URLs du sitemap redirigent.
+  trailingSlash: true,
+
+  // Pas de référencement pour l'instant (site de classe, travaux d'élèves à venir).
+  // Lever ce verrou = décision opérateur + passage Proþreynir (données d'élèves).
+  noIndex: true,
 
   i18n: {
     defaultLocale: "fr",
@@ -62,7 +69,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: "🖥️ Info Saint-Anne",
+        title: "🖥️ Info Sainte-Anne",
         items: [
           {
             type: "docSidebar",
@@ -124,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} École Saint-Anne — CM1-CM2 🎓 Construit avec Docusaurus`,
+        copyright: `© ${new Date().getFullYear()} École Sainte-Anne — CM1-CM2 🎓 Construit avec Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,

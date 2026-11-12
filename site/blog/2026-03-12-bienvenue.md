@@ -1,11 +1,11 @@
 ---
 slug: bienvenue
-title: Bienvenue sur le site Informatique Saint-Anne
+title: Bienvenue sur le site Informatique Sainte-Anne
 authors: [jnxmas]
 tags: [annonce]
 ---
 
-Bienvenue sur le site de documentation du programme informatique CM1-CM2 de l'École Saint-Anne.
+Bienvenue sur le site de documentation du programme informatique CM1-CM2 de l'École Sainte-Anne.
 
 Ce site rassemble la progression annuelle, les fiches des travaux pratiques, les ressources pédagogiques et les outils utilisés en classe.
 

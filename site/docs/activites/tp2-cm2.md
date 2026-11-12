@@ -14,7 +14,7 @@ Les CM2 travaillent en **2 équipes** sur des questions écologiques qu'ils ont 
 
 > On gaspille quoi exactement ? De la nourriture, de l'eau, de l'énergie ? Et comment changer nos habitudes ?
 
-[Découvrir le thème](tp2-gaspillage)
+[Découvrir le thème](tp2-gaspillage.md)
 
 ---
 
@@ -23,7 +23,7 @@ Les CM2 travaillent en **2 équipes** sur des questions écologiques qu'ils ont 
 
 > Est-ce qu'on apprend assez sur l'écologie à l'école ? Comment mieux comprendre et agir ensemble ?
 
-[Découvrir le thème](tp2-ecologie-ecole)
+[Découvrir le thème](tp2-ecologie-ecole.md)
 
 ---
 

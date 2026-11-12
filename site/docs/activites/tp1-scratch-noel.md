@@ -95,7 +95,7 @@ Voici ce que les élèves ont créé pendant ce projet :
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/ttdWPhbgr9Q"
+  src="https://www.youtube-nocookie.com/embed/ttdWPhbgr9Q"
   title="Cartes de Noël Scratch — Réalisations des élèves"
   frameBorder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

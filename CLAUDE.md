@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Educational resources for teaching computer science to CM1/CM2 students (cycle 3, ages 9-11) at École Saint-Anne, school year 2025-2026. The project contains:
+Educational resources for teaching computer science to CM1/CM2 students (cycle 3, ages 9-11) at École Sainte-Anne, school year 2025-2026. The project contains:
 
 - **Python scripts** generating interactive Excel worksheets for classroom use (openpyxl)
 - **Curriculum documents** (programme.md) aligned with French national education standards (BOEN 2023)

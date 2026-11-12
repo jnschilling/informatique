@@ -1,7 +1,7 @@
 # Benchmark — Podcasts français écologie/nature pour CM1-CM2
 
 > Mission Huginn — 2026-05-07
-> Cible : inspirer le projet TP2 Podcast Écologie (CM1 + CM2, École Saint-Anne)
+> Cible : inspirer le projet TP2 Podcast Écologie (CM1 + CM2, École Sainte-Anne)
 > Critères : durée 2-10 min, ton accessible 9-11 ans, structure claire, bruitages/musique
 
 ---
@@ -88,4 +88,4 @@
 
 ---
 
-_Benchmark Huginn — 2026-05-07. Fait dans le cadre du projet TP2 École Saint-Anne. Ne pas publier (intel interne)._
+_Benchmark Huginn — 2026-05-07. Fait dans le cadre du projet TP2 École Sainte-Anne. Ne pas publier (intel interne)._
