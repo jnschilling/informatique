@@ -18,6 +18,7 @@ const sidebars = {
       collapsed: false,
       items: [
         "activites/poilus-memoire",
+        "activites/poilus-galerie",
         "activites/robots-parcours",
         "activites/tp1-machine-temps",
         "activites/tp2-gazette-temps",

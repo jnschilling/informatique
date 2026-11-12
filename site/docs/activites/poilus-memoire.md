@@ -27,6 +27,10 @@ La veille de l'anniversaire de l'armistice du 11 novembre 1918, chaque élève a
 
 Et on a découvert la grande question de l'année : le format, un robot sait le suivre... mais **ce que tu ajoutes de personnel, lui, il ne sait pas**. C'est là que tout se joue !
 
+## La galerie des fiches
+
+Les fiches de la classe sont publiées au fur et à mesure dans [la galerie](/docs/activites/poilus-galerie) — avec l'accord des familles, prénoms seuls.
+
 ## Et la suite ?
 
 Le voyage ne s'arrête pas là : en décembre, dans [La Machine à Remonter le Temps](/docs/activites/tp1-machine-temps), une des scènes CM2 possibles est... **la tranchée de 1916**. Ton poilu pourra continuer à vivre dans ta scène animée !
