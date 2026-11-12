@@ -11,8 +11,8 @@ const config = {
     v4: true,
   },
 
-  url: "https://jnschilling.github.io",
-  baseUrl: "/informatique/",
+  url: "https://ecole-sainte-anne.locki.io",
+  baseUrl: "/",
 
   onBrokenLinks: "throw",
 
