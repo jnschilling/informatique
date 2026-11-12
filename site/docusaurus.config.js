@@ -119,6 +119,10 @@ const config = {
                 label: "Nos outils",
                 to: "/docs/ressources/outils",
               },
+              {
+                label: "Mentions légales & vie privée",
+                to: "/vie-privee",
+              },
             ],
           },
           {
