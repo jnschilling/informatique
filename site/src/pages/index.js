@@ -10,11 +10,13 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero", styles.heroBanner)}>
       <div className="container">
-        <span className={styles.heroEmoji}>🖥️🎨🎵</span>
+        <span className={styles.heroEmoji}>🖥️🏛️🎙️</span>
         <Heading as="h1" className={styles.heroTitle}>
           {siteConfig.title}
         </Heading>
-        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+        <p className={styles.heroSubtitle}>
+          2026-2027 : une année tournée vers l'Histoire ! {siteConfig.tagline}
+        </p>
         <div className={styles.buttons}>
           <Link
             className={clsx("button button--secondary button--lg", styles.heroButton)}
@@ -24,7 +26,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className={clsx("button button--secondary button--lg", styles.heroButton)}
-            to="/docs/activites/tp1-scratch-noel"
+            to="/docs/activites/tp1-machine-temps"
           >
             🚀 Voir les projets
           </Link>
@@ -68,27 +70,27 @@ export default function Home() {
                 linkText="Voir le calendrier"
               />
               <FeatureCard
-                emoji="🎄"
-                title="Cartes de Noël"
-                description="On crée des cartes animées avec Scratch : neige qui tombe, musique et personnages qui dansent !"
-                link="/docs/activites/tp1-scratch-noel"
-                linkText="Découvrir le projet"
+                emoji="🕰️"
+                title="La Machine à Remonter le Temps"
+                description="Chaque élève programme une scène historique sur Scratch, et le Voyageur du Temps les traverse toutes : de la préhistoire à aujourd'hui !"
+                link="/docs/activites/tp1-machine-temps"
+                linkText="Monter dans la machine"
               />
               <FeatureCard
-                emoji="🎙️🌍"
-                title="Podcast Écologie"
-                description="En équipe, on crée un podcast sur un thème écologique : gaspillage, pollution, animaux, écologie à l'école !"
-                link="/docs/activites/tp2-ecologie"
-                linkText="Découvrir les équipes"
+                emoji="📜"
+                title="La Gazette du Temps"
+                description="Deviens journaliste d'une autre époque ! Chaque équipe publie la une d'un journal historique avec articles, images et graphiques."
+                link="/docs/activites/tp2-gazette-temps"
+                linkText="Lire la gazette"
               />
             </div>
             <div className="row margin-bottom--lg">
               <FeatureCard
                 emoji="🎙️"
-                title="Podcast Aventure"
-                description="Toute la classe invente une histoire et l'enregistre en podcast avec des voix, des bruitages et de la musique !"
-                link="/docs/activites/tp3-podcast-aventure"
-                linkText="Explorer le projet"
+                title="Podcast d'Histoire"
+                description="Toute la classe raconte un épisode historique réel en podcast, façon « Les Odyssées » : voix, bruitages et frissons garantis !"
+                link="/docs/activites/tp3-podcast-histoire"
+                linkText="Tendre l'oreille"
               />
               <FeatureCard
                 emoji="🗺️"

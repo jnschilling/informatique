@@ -14,7 +14,20 @@ const sidebars = {
   activitesSidebar: [
     {
       type: "category",
-      label: "Travaux Pratiques",
+      label: "2026-2027 : l'année de l'Histoire",
+      collapsed: false,
+      items: [
+        "activites/poilus-memoire",
+        "activites/robots-parcours",
+        "activites/tp1-machine-temps",
+        "activites/tp2-gazette-temps",
+        "activites/tp3-podcast-histoire",
+      ],
+    },
+    {
+      type: "category",
+      label: "Archives 2025-2026",
+      collapsed: true,
       items: [
         "activites/tp1-scratch-noel",
         {

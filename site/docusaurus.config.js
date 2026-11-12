@@ -97,7 +97,7 @@ const config = {
               },
               {
                 label: "🚀 Les projets",
-                to: "/docs/activites/tp1-scratch-noel",
+                to: "/docs/activites/tp1-machine-temps",
               },
             ],
           },

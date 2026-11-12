@@ -5,6 +5,10 @@ title: "TP2 : Podcast Écologie"
 
 # TP2 : Podcast Écologie (Mars → Mai, 5 séances)
 
+:::info Archive 2025-2026
+Ce projet date de l'année dernière ! Le TP2 de cette année, c'est [La Gazette du Temps](/docs/activites/tp2-gazette-temps). 📜
+:::
+
 Pour ce deuxième grand projet, les élèves de CM1 et CM2 créent des **podcasts** sur des thèmes écologiques qu'ils ont choisis eux-mêmes !
 
 ## Le défi

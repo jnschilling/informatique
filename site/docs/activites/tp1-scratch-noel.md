@@ -5,6 +5,10 @@ title: "TP1 : Cartes de Noël Scratch"
 
 # TP1 : Vidéos de Cartes de Noël (Décembre, 4 séances)
 
+:::info Archive 2025-2026
+Ce projet date de l'année dernière ! Le TP1 de cette année, c'est [La Machine à Remonter le Temps](/docs/activites/tp1-machine-temps). 🕰️
+:::
+
 ## Objectifs pédagogiques
 
 - Concevoir un programme simple avec Scratch (boucles, événements, variables simples)

@@ -9,4 +9,4 @@ title: Compétences de Base
 | ----------------------------------- | ----------------------------------------------------- | ----------------------------------------- | --------- |
 | Sauvegarde/Organisation de fichiers | Créer dossiers personnel, nommer fichiers par projet. | Explorateur Windows, One Drive            | 3 séances |
 | Recherche en ligne                  | Moteurs sécurisés, citer sources.                     | Qwant Junior, filtres images libres.      | 2 séances |
-| Utilisation de l'IA                 | Prompts simples pour idées/textes.                    | Grok/ChatGPT éducatif (avec supervision). | 1 séance  |
+| Utilisation de l'IA                 | Prompts simples pour idées/textes ; limites et vérification des réponses. | IA éducative (avec supervision). | 1 séance  |

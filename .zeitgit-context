@@ -1,12 +1,28 @@
+schema-version: 3
 # Zeitgit Context — informatique
 # École Saint-Anne, CM1/CM2 (cycle 3, ages 9-11)
-# School year 2025-2026
+# School year 2026-2027 — une année tournée vers l'Histoire
 
 agent: lifprasir
-model: claude-opus-4-6
+operator: jnxmas
+trail_remote: yggdrasil
+deploy_remote: github
+operators:
+  jnxmas:
+    slug: -Users-jnxmas-dev-informatique
+model: claude-fable-5
 project: informatique-ecole
 domain: education
+born: 2026-03-12
 classes:
-  - CM2: 10 élèves
-  - CM1: 11 élèves
-current_tp: TP2 (écologie — format TBD: podcast ou journal, vote élèves)
+  - CM2: 11 élèves
+  - CM1: effectif à confirmer
+current_tp: Poilus présentés le 10/11 (retour d'expérience 12/11) → TP1 « La Machine à Remonter le Temps » (décembre)
+last-session: 2026-11-12
+last-thread: 587f5f8f-e01a-4dcb-9917-d29e3c251014
+threads: 587f5f8f-e01a-4dcb-9917-d29e3c251014
+tracker:
+  type: forgejo
+  url: https://forge.lockilabs.com/jnxmas/informatique
+  api_auth_env: FORGEJO_API_TOKEN
+  visibility: private

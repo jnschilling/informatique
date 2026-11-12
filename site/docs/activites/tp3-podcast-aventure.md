@@ -5,6 +5,10 @@ title: "TP3 : Podcast d'Aventure"
 
 # TP3 : Podcast d'Aventure Collective (Juin, 6 séances)
 
+:::info Archive 2025-2026
+Ce projet date de l'année dernière ! Le TP3 de cette année, c'est le [Podcast d'Histoire](/docs/activites/tp3-podcast-histoire). 🎙️
+:::
+
 ## Prérequis validés (Mai, 3-4 séances)
 
 - Découverte d'Audacity : enregistrer sa voix, écouter, couper un extrait audio
