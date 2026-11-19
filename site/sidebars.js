@@ -3,7 +3,7 @@ const sidebars = {
   programmeSidebar: [
     {
       type: "category",
-      label: "Programme Annuel",
+      label: "Notre année",
       items: [
         "programme/progression",
         "programme/competences-base",
@@ -59,9 +59,10 @@ const sidebars = {
     },
   ],
   ressourcesSidebar: [
+    "ressources/notre-site-maison",
     {
       type: "category",
-      label: "Références",
+      label: "Pour comprendre",
       items: [
         "ressources/programme-officiel",
         "ressources/outils",

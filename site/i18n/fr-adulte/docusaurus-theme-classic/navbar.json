@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "🖥️ Info Sainte-Anne",
+    "description": "The title in the navbar"
+  },
+  "item.label.📅 Notre année": {
+    "message": "Programme",
+    "description": "Navbar item with label 📅 Notre année"
+  },
+  "item.label.🚀 Nos projets": {
+    "message": "Activités",
+    "description": "Navbar item with label 🚀 Nos projets"
+  },
+  "item.label.📚 Boîte à outils": {
+    "message": "Ressources",
+    "description": "Navbar item with label 📚 Boîte à outils"
+  },
+  "item.label.✏️ Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label ✏️ Blog"
+  }
+}

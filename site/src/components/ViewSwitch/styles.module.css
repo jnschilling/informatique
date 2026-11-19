@@ -1,0 +1,48 @@
+/* L'interrupteur Enfant / Adulte : une glissière à deux positions. */
+.viewSwitch {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 3px;
+  margin: 0 0.5rem;
+  border-radius: 999px;
+  background: var(--ifm-color-emphasis-200);
+  border: 2px solid var(--ifm-color-emphasis-300);
+}
+
+.viewSwitchMobile {
+  display: flex;
+  margin: 0.75rem;
+}
+
+.option {
+  flex: 1;
+  padding: 0.25rem 0.85rem;
+  border-radius: 999px;
+  font-weight: 800;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  white-space: nowrap;
+  text-align: center;
+  color: var(--ifm-color-emphasis-800);
+  text-decoration: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.option:hover {
+  color: var(--ifm-color-emphasis-1000);
+  background: var(--ifm-color-emphasis-300);
+  text-decoration: none;
+}
+
+.option:focus-visible {
+  outline: 3px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+.optionActive,
+.optionActive:hover {
+  color: #fff;
+  background: #c8432b;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}

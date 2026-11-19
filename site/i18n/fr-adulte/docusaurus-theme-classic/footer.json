@@ -1,0 +1,46 @@
+{
+  "link.title.🗺️ Explorer": {
+    "message": "Programme",
+    "description": "The title of the footer links column with title=🗺️ Explorer in the footer"
+  },
+  "link.title.📚 Apprendre": {
+    "message": "Références",
+    "description": "The title of the footer links column with title=📚 Apprendre in the footer"
+  },
+  "link.title.✏️ Écrire": {
+    "message": "Vie de la classe",
+    "description": "The title of the footer links column with title=✏️ Écrire in the footer"
+  },
+  "link.item.label.📅 Notre année": {
+    "message": "Progression annuelle",
+    "description": "The label of footer link with label=📅 Notre année linking to /docs/programme/progression"
+  },
+  "link.item.label.🚀 Les projets": {
+    "message": "Les projets de l'année",
+    "description": "The label of footer link with label=🚀 Les projets linking to /docs/activites/tp1-machine-temps"
+  },
+  "link.item.label.Pourquoi l'informatique à l'école ?": {
+    "message": "Programme officiel Cycle 3",
+    "description": "The label of footer link with label=Pourquoi l'informatique à l'école ? linking to /docs/ressources/programme-officiel"
+  },
+  "link.item.label.Nos outils": {
+    "message": "Outils et logiciels",
+    "description": "The label of footer link with label=Nos outils linking to /docs/ressources/outils"
+  },
+  "link.item.label.🏠 Notre site est une maison": {
+    "message": "Le site expliqué aux enfants",
+    "description": "The label of footer link with label=🏠 Notre site est une maison linking to /docs/ressources/notre-site-maison"
+  },
+  "link.item.label.Mentions légales (pour les adultes)": {
+    "message": "Mentions légales & vie privée",
+    "description": "The label of footer link with label=Mentions légales (pour les adultes) linking to /vie-privee"
+  },
+  "link.item.label.Blog de la classe": {
+    "message": "Blog de la classe",
+    "description": "The label of footer link with label=Blog de la classe linking to /blog"
+  },
+  "copyright": {
+    "message": "© 2026 École Sainte-Anne — CM1-CM2 🎓 Construit avec Docusaurus",
+    "description": "The footer copyright"
+  }
+}

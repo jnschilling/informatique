@@ -6,6 +6,9 @@ site/build/
 site/.docusaurus/
 site/.cache-loader/
 
+# project folder 
+/project/
+
 # OS
 .DS_Store
 

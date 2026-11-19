@@ -1,6 +1,8 @@
 # Mentions légales & vie privée
 
-_Dernière mise à jour : 12 novembre 2026_
+_Dernière mise à jour : 19 novembre 2026_
+
+> 🏠 **Version pour les enfants** : la même chose, racontée avec une maison, des portes et des fenêtres → [Notre site est une maison](/docs/ressources/notre-site-maison).
 
 ## Qui édite ce site ?
 

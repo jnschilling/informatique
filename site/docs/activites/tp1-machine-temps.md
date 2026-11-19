@@ -16,25 +16,25 @@ Un personnage commun à toute la classe — **le Voyageur du Temps** — arrive 
 
 Chaque scène affiche sa **date** et son **titre**. À la dernière séance, on projette toutes les scènes **dans l'ordre chronologique** : la classe entière voyage de la préhistoire à aujourd'hui !
 
-## Objectifs pédagogiques
+## Ce que tu vas apprendre
 
-- Programmer le **déplacement** du Voyageur dans la scène (instructions de mouvement + une boucle)
-- Animer un élément de décor (costumes, apparence, sons)
-- Se repérer sur la frise du temps : situer sa scène par rapport aux autres
-- Présenter et expliquer ses choix de programmation
+- Programmer le **déplacement** du Voyageur dans ta scène (des instructions de mouvement et une boucle)
+- Animer un élément du décor (costumes, apparence, sons)
+- Te repérer sur la frise du temps : où est ta scène par rapport aux autres ?
+- Présenter ta scène et expliquer comment tu l'as programmée
 
 ## Les défis par niveau
 
 - **Défi CM1** 🧭 : le Voyageur traverse la scène avec une séquence de déplacement programmée — comme un robot à qui on donne des instructions !
 - **Défi CM2** 🎯 : au clic, la scène pose une **question d'histoire** (bloc si/sinon + variable score). Les meilleures questions seront reprises dans nos Kahoot de révision !
 
-## Déroulement des 4 séances
+## Les 4 séances
 
-1. **Découverte et planification** : choix de la scène, dessin sur papier, repérage des blocs utiles
-2. **Programmation guidée** : décor, personnages, déplacement du Voyageur
-3. **Enrichissement** : animation du décor, sons, question d'histoire (CM2)
-4. **Finalisation et grand voyage** : tests, titre + date, projection chronologique collective
+1. **On découvre et on prépare** : tu choisis ta scène, tu la dessines sur papier, tu repères les blocs utiles
+2. **On programme ensemble** : le décor, les personnages, le déplacement du Voyageur
+3. **On enrichit** : l'animation du décor, les sons, la question d'histoire (CM2)
+4. **On termine et on voyage** : les tests, le titre et la date, puis la projection de toutes les scènes dans l'ordre
 
-## Évaluation
+## Comment c'est noté ?
 
-Grille sur 20 points : compétences de base (8), créativité (6), présentation (6) — avec auto-évaluation individuelle, comme pour chaque TP.
+Sur 20 points : les bases (8), la créativité (6), la présentation (6). Et tu te notes aussi toi-même, comme pour chaque grand projet.

@@ -24,14 +24,24 @@ const config = {
   noIndex: true,
 
   i18n: {
+    // Deux vues d'un même site, portées par l'i18n : « fr » = la vue Enfant (à la racine),
+    // « fr-adulte » = la vue Adulte (sous /adulte/). Une page sans version adulte
+    // affiche la version enfant dans les deux vues.
     defaultLocale: "fr",
-    locales: ["fr"],
+    locales: ["fr", "fr-adulte"],
     localeConfigs: {
       fr: {
-        label: "Français",
+        label: "🧒 Enfant",
         direction: "ltr",
         htmlLang: "fr-FR",
         calendar: "gregory",
+      },
+      "fr-adulte": {
+        label: "🎓 Adulte",
+        direction: "ltr",
+        htmlLang: "fr-FR",
+        calendar: "gregory",
+        baseUrl: "/adulte/",
       },
     },
   },
@@ -75,21 +85,23 @@ const config = {
             type: "docSidebar",
             sidebarId: "programmeSidebar",
             position: "left",
-            label: "📅 Programme",
+            label: "📅 Notre année",
           },
           {
             type: "docSidebar",
             sidebarId: "activitesSidebar",
             position: "left",
-            label: "🚀 Activités",
+            label: "🚀 Nos projets",
           },
           {
             type: "docSidebar",
             sidebarId: "ressourcesSidebar",
             position: "left",
-            label: "📚 Ressources",
+            label: "📚 Boîte à outils",
           },
           { to: "/blog", label: "✏️ Blog", position: "left" },
+          { type: "localeDropdown", position: "right" },
+          { type: "custom-viewSwitch", position: "right" },
         ],
       },
       footer: {
@@ -112,7 +124,7 @@ const config = {
             title: "📚 Apprendre",
             items: [
               {
-                label: "Programme officiel Cycle 3",
+                label: "Pourquoi l'informatique à l'école ?",
                 to: "/docs/ressources/programme-officiel",
               },
               {
@@ -120,7 +132,11 @@ const config = {
                 to: "/docs/ressources/outils",
               },
               {
-                label: "Mentions légales & vie privée",
+                label: "🏠 Notre site est une maison",
+                to: "/docs/ressources/notre-site-maison",
+              },
+              {
+                label: "Mentions légales (pour les adultes)",
                 to: "/vie-privee",
               },
             ],

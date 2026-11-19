@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.programmeSidebar.category.Notre année": {
+    "message": "Programme annuel",
+    "description": "The label for category 'Programme Annuel' in sidebar 'programmeSidebar'"
+  },
+  "sidebar.activitesSidebar.category.2026-2027 : l'année de l'Histoire": {
+    "message": "2026-2027 : l'année de l'Histoire",
+    "description": "The label for category '2026-2027 : l'année de l'Histoire' in sidebar 'activitesSidebar'"
+  },
+  "sidebar.activitesSidebar.category.Archives 2025-2026": {
+    "message": "Archives 2025-2026",
+    "description": "The label for category 'Archives 2025-2026' in sidebar 'activitesSidebar'"
+  },
+  "sidebar.activitesSidebar.category.TP2 : Podcast Écologie": {
+    "message": "TP2 : Podcast Écologie",
+    "description": "The label for category 'TP2 : Podcast Écologie' in sidebar 'activitesSidebar'"
+  },
+  "sidebar.activitesSidebar.category.Outils Générateurs": {
+    "message": "Outils Générateurs",
+    "description": "The label for category 'Outils Générateurs' in sidebar 'activitesSidebar'"
+  },
+  "sidebar.ressourcesSidebar.category.Pour comprendre": {
+    "message": "Références",
+    "description": "The label for category 'Références' in sidebar 'ressourcesSidebar'"
+  }
+}
