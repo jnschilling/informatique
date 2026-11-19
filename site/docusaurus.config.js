@@ -100,7 +100,6 @@ const config = {
             label: "📚 Boîte à outils",
           },
           { to: "/blog", label: "✏️ Blog", position: "left" },
-          { type: "localeDropdown", position: "right" },
           { type: "custom-viewSwitch", position: "right" },
         ],
       },
