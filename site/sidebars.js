@@ -20,6 +20,7 @@ const sidebars = {
         "activites/poilus-memoire",
         "activites/poilus-galerie",
         "activites/robots-parcours",
+        "activites/mission-ordinateur",
         "activites/tp1-machine-temps",
         "activites/tp2-gazette-temps",
         "activites/tp3-podcast-histoire",
