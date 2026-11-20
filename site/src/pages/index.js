@@ -3,6 +3,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import Heading from "@theme/Heading";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./index.module.css";
 
 // La vue Adulte est la locale « fr-adulte » ; la vue Enfant est la locale par défaut.
@@ -118,6 +119,29 @@ function useHome() {
   return i18n.currentLocale === ADULT_LOCALE ? ADULT_HOME : KID_HOME;
 }
 
+// La bannière de l'école, commune aux deux vues. Tout son texte est dans l'image : le alt le redit en entier.
+const BANNER_ALT =
+  "ecole-sainte-anne.locki.io — Apprendre autrement, grandir ensemble. Vers un nouveau paradigme de l'éducation. " +
+  "Des racines solides. Des esprits libres. Préparer aujourd'hui les humains de demain. " +
+  "Racines : confiance, valeurs, appartenance. Épanouissement : curiosité, créativité, bien-être. " +
+  "Compétences : esprit critique, collaboration, adaptabilité. Impact : sens, responsabilité, contribution. " +
+  "Être, savoir, penser, agir, devenir. Une éducation qui forme, éclaire et transforme. " +
+  "Illustration : un enfant, sac au dos, marche sur un chemin vers une église au lever du soleil.";
+
+function SchoolBanner() {
+  return (
+    <div className={styles.schoolBanner}>
+      <img
+        src={useBaseUrl("/img/hero-ecole-sainte-anne.jpg")}
+        alt={BANNER_ALT}
+        width={1792}
+        height={1008}
+        className={styles.schoolBannerImg}
+      />
+    </div>
+  );
+}
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   const home = useHome();
@@ -168,6 +192,7 @@ export default function Home() {
       title="Accueil"
       description="Programme informatique Cycle 3 — École Sainte-Anne"
     >
+      <SchoolBanner />
       <HomepageHeader />
       <main>
         <section className={styles.features}>

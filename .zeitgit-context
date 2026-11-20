@@ -18,8 +18,8 @@ classes:
   - CM2: 11 élèves
   - CM1: effectif à confirmer
 current_tp: Poilus présentés le 10/11 (retour d'expérience 12/11) → TP1 « La Machine à Remonter le Temps » (décembre)
-last-session: 2026-11-12
-last-thread: 587f5f8f-e01a-4dcb-9917-d29e3c251014
+last-session: 2026-11-20
+last-thread: inferred:587f5f8f-e01a-4dcb-9917-d29e3c251014
 threads: 587f5f8f-e01a-4dcb-9917-d29e3c251014
 tracker:
   type: forgejo

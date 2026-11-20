@@ -1,3 +1,18 @@
+/* ===== School banner (both views) ===== */
+
+.schoolBanner {
+  background: #0d1b3a; /* the banner's own night blue, so no seam shows on wide screens */
+  line-height: 0;
+}
+
+.schoolBannerImg {
+  display: block;
+  width: 100%;
+  max-width: 1792px;
+  height: auto;
+  margin: 0 auto;
+}
+
 .heroBanner {
   padding: 4rem 0 3rem;
   text-align: center;
