@@ -138,6 +138,9 @@ function SchoolBanner() {
         height={1008}
         className={styles.schoolBannerImg}
       />
+      <p className={styles.schoolBannerCredit}>
+        Illustration générée par intelligence artificielle (Grok) — l'enfant représenté n'existe pas.
+      </p>
     </div>
   );
 }

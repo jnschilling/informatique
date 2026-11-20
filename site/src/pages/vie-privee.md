@@ -25,6 +25,7 @@ Ce site est le site pédagogique de la classe de CM1-CM2 de l'**École Sainte-An
 - **Préférences locales** : le choix clair/sombre est mémorisé dans votre navigateur (localStorage). Cette information ne quitte jamais votre appareil.
 - **Vidéos** : les rares vidéos sont intégrées via `youtube-nocookie.com` — aucun cookie n'est déposé tant que vous ne lancez pas la lecture. Au clic sur « lecture », YouTube (Google Ireland Ltd) traite des données selon sa propre [politique de confidentialité](https://policies.google.com/privacy).
 - **Journaux d'hébergement** : comme tout hébergeur, GitHub peut journaliser des adresses IP à des fins de sécurité, selon sa [politique de confidentialité](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement), en s'appuyant sur les mécanismes de transfert reconnus par l'Union européenne.
+- **Illustrations générées par IA** : la bannière de la page d'accueil est une image créée par intelligence artificielle (Grok, de la société xAI). L'enfant qu'elle montre n'existe pas : ce n'est ni une photo ni un élève de l'école.
 
 ## Travaux d'élèves
 
