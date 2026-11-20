@@ -5,6 +5,15 @@
   line-height: 0;
 }
 
+.schoolBannerCredit {
+  margin: 0;
+  padding: 0.4rem 1rem;
+  line-height: 1.4;
+  font-size: 0.8rem;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.75);
+}
+
 .schoolBannerImg {
   display: block;
   width: 100%;
