@@ -75,6 +75,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // the share card (WhatsApp, Signal, X...): a 1200 px copy of the banner, under 300 KB so WhatsApp keeps it
+      image: "img/og-ecole-sainte-anne.jpg",
       colorMode: {
         respectPrefersColorScheme: true,
       },
